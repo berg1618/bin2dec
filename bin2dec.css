@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(43, 21, 95, 1);
+    color: rgba(255, 255, 255, 0.75);
+}
+header{
+    text-align: center;
+    font-size: 32px;
+}
+div{
+    text-align: center;
+    font-size: larger
+}
+#inp{
+    background-color: rgb(20, 8, 24);
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+#dh{
+    padding-top: 150px;
+    text-align: center;
+}
