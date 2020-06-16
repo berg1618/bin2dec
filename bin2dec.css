@@ -4,7 +4,11 @@ body{
 }
 header{
     text-align: center;
+    margin-bottom: 50px;
+}
+h3{
     font-size: 32px;
+    margin-bottom: 0px;
 }
 div{
     text-align: center;
@@ -17,7 +21,13 @@ div{
     padding-bottom: 30px;
 
 }
-#dh{
-    padding-top: 150px;
+#bin{
+    margin-top: 20px;
+}
+#res{
+    margin-top: 40px;
+}
+#foo{
+    margin-top: 300px;
     text-align: center;
 }
